@@ -1,7 +1,7 @@
 # IRCTC
 ## Tech Stack Used:
-- Python Django
-- MySQL
+- Python Django (Web Server)
+- MySQL (Database)
 - Rest Framework
 - JSON Web Token
 
